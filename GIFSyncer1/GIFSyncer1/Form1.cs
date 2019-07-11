@@ -137,9 +137,16 @@ namespace GIFSyncer1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var img = Image.FromStream(ms);
 
-            img.Save(Guid.NewGuid().ToString() + ".gif", ImageFormat.Gif);
+            FileStream fs = new FileStream(Guid.NewGuid().ToString() + ".gif", FileMode.CreateNew);
+
+            ms.WriteTo(fs);
+
+            //fs.
+
+            //var img = Image.FromStream(ms);
+
+            //img.Save(Guid.NewGuid().ToString() + ".gif", ImageFormat.Gif);
         }
 
     }
