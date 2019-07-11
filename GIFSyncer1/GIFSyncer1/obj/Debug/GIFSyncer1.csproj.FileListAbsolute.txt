@@ -7,3 +7,12 @@ D:\MosaixSVN\MOSAIXSMSLibrary\trunk\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.P
 D:\MosaixSVN\MOSAIXSMSLibrary\trunk\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.csproj.GenerateResource.Cache
 D:\MosaixSVN\MOSAIXSMSLibrary\trunk\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.exe
 D:\MosaixSVN\MOSAIXSMSLibrary\trunk\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.pdb
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\bin\Debug\GIFSyncer1.exe.config
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.exe
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.pdb
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\bin\Debug\GIFSyncer1.exe
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\bin\Debug\GIFSyncer1.pdb
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.csprojResolveAssemblyReference.cache
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.Form1.resources
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.Properties.Resources.resources
+C:\Users\apfrogner\Downloads\GIFSyncer-gifsync0.0.1\GIFSyncer-gifsync0.0.1\GIFSyncer1\GIFSyncer1\obj\Debug\GIFSyncer1.csproj.GenerateResource.Cache
