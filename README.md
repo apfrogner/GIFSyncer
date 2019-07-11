@@ -8,6 +8,6 @@ So, after a lot of experimenting, I figured out that the second byte of the two 
 For fun, 96602dadc865345.gif is a two frame GIF that lasts around 22 minutes (10.866666667 minutes per frame).
 
 
-Found the spec! https://www.w3.org/Graphics/GIF/spec-gif87.txt
+Found the spec! https://www.w3.org/Graphics/GIF/spec-gif89a.txt
 
 Haven't found any more detail about the use of the second delay bit but I've figured out what it does so :shrug:
