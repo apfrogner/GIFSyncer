@@ -1,7 +1,7 @@
 # GIFSyncer
 Provides a slider for a loaded GIF to allow you to sync it to anything.  A rough BPM is provided
 
-For example:
+## For example:
 
 This gif is at 120bpm and should sync up to music at 120bpm:
 ![120BPM GIF](120bpmexample.gif)
